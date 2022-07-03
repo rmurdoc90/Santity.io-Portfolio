@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "silver-ram"
+    "name": "Portfolio Sanity"
   },
   "api": {
     "projectId": "gzc2fxbw",
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
