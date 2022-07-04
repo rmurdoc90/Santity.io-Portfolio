@@ -9,6 +9,11 @@ export default {
       title: "Company Name",
     },
     {
+      name: "jobTitle",
+      type: "string",
+      title: "Job Title",
+    },
+    {
       name: "startDate",
       type: "date",
       title: "Start date",
